@@ -10,3 +10,9 @@ a{
     color: rgb(4, 16, 245);
     font-family: "Open Sans", sans-serif;
 }
+
+a:hover{
+    background-color: rgb(78, 30, 210);
+    color: blue;
+    font-size: 20px;
+}
