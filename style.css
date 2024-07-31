@@ -16,3 +16,11 @@ a:hover{
     color: blue;
     font-size: 20px;
 }
+
+a{
+    font-family: "Playwrite AR", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: black;
+    text-decoration: none;
+}
